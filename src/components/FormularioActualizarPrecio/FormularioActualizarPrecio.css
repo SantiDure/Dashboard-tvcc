@@ -1,0 +1,13 @@
+
+.section{
+    margin: 20px;
+}
+
+.input{
+    margin: 10px;
+}
+
+.input_porcentual{
+display: flex;
+
+}
